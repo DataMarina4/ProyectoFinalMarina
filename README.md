@@ -69,26 +69,26 @@ Complete con Excel la información faltante en el dataset y cambie los valores a
 
    
 En este paso realice las adaptaciones para distribuir la información en tablas de hechos y dimensiones en PowerQuery, segmentación de la información y creación de relaciones, de acuerdo al modelo de datos.
-•	Facts
+
+### •	Facts
 ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/b93971cd-2564-40eb-bbfa-1abc115080b7)
 
  
-•	Dim_Country
+### •	Dim_Country
  ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/baaf0a1f-ea98-4723-b8b1-2269cb79ba55)
 ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/99a38785-993d-4cd6-9140-d019e66b5b93)
 
- 
-•	Dim_Person
+### •	Dim_Person
  ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/9a6d0781-4165-451a-b216-b3995980b037)
 
-•	Dim_Status
+### •	Dim_Status
  ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/f54e2618-6a8e-4f23-a29f-24a8a19975de)
 
-•	Dim_Wealth
+### •	Dim_Wealth
 ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/f62f5ef7-a7bc-43eb-a774-2f87c9677adc)
 
+ ## Para finalizar la capa Gold:
  
-7 Para finalizar la capa Gold:
  Creación de columnas y ajuste de datos en PowerQuery
 •	índice Wealth_ID (permite sortear que el ranking tiene posiciones compartidas)
 •	Décadas (valor auxiliar para facilitar legibilidad de gráfico)
@@ -98,13 +98,13 @@ Creación de columnas dinámicas para apoyar a los gráficos
 •	Rank_NombreCompleto
 •	RealWorth para facilitar expresar unidades correctamente.
 
-Finalmente genére los  gráficos, medidas y reportes definidos por el plan de métricas.
+### Finalmente genére los  gráficos, medidas y reportes definidos por el plan de métricas.
 
 ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/98e139db-fcdc-43ca-b86a-3396328fcd8e)
  ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/6aa8dac0-222a-4e10-ba5a-40c6c73d8c47)
 
  
-Capturas de Dashbord y relaciones de datos en Power BI
+## Capturas de Dashbord y relaciones de datos en Power BI
  
 ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/4bfbb2fb-210f-4901-8f2e-2574a8b7c30d)
 
