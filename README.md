@@ -133,5 +133,5 @@ Se corrobora parcialmente la última hipótesis. Las principales industrias que 
 
 # Enlace al dashboard:
 
-<iframe title="proyecto final 1_0" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWZlMzlkODYtMmMzMC00YTA0LTk3MDMtNzU1ZTM3YjVmNjY3IiwidCI6IjE4ZmMxNWE2LWM4YWYtNGY4Yy1hNWZhLTU3YWQ1ODBjYmRhZiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
+[<iframe title="proyecto final 1_0" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWZlMzlkODYtMmMzMC00YTA0LTk3MDMtNzU1ZTM3YjVmNjY3IiwidCI6IjE4ZmMxNWE2LWM4YWYtNGY4Yy1hNWZhLTU3YWQ1ODBjYmRhZiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>](https://app.powerbi.com/view?r=eyJrIjoiNWZlMzlkODYtMmMzMC00YTA0LTk3MDMtNzU1ZTM3YjVmNjY3IiwidCI6IjE4ZmMxNWE2LWM4YWYtNGY4Yy1hNWZhLTU3YWQ1ODBjYmRhZiIsImMiOjl9)
 
