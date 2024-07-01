@@ -1,11 +1,13 @@
 # ProyectoFinalMarina
 
-Fuentes de datos: 
+## Fuentes de datos: 
+
 Se obtuvo una base de datos públicos construida sobre datos del ranking internacional de Forbes a través de Kaggle y dos bases de datos de 2010 y 2020 para hacer una comparación general.
 La base de datos incluye datos exclusivamente relativos al ranking Forbes (puesto, valor total, nombre de la fortuna), datos personales (edad, sexo, fecha de nacimiento) e información geopolítica (país, datos económicos y sociales del país, etc.) que nos permitirán crear un contexto socio económico alrededor de cada fortuna.
 
 
-Hipótesis:
+## Hipótesis:
+
 Originalmente se pretendía demostrar que la distribución de edad de los millonarios estaba decreciendo, pero al tomar como referencia los promedios de edad de 2010 (61,57 años) y 2020 (64,18 años) se observó que la tendencia era en aumento. Por lo que comprobaremos la continuidad de esta tendencia y analizaremos factores que nos permitan una visión más amplia ya que esta base es más completa que las ediciones anteriores.
 Se pretende desarrollar un análisis demográfico, geográfico y comercial de los billonarios.
 Demostrando lo siguiente:
@@ -19,8 +21,8 @@ D- Tecnología y Finanzas son las industrias con más millonarios
 
 
 
-Preparación del dataset:
-Flujo de datos:
+## Preparación del dataset:
+### Flujo de datos:
 
  ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/93b3789d-5ac4-41ca-81dd-216ab67a40ea)
 
@@ -59,9 +61,9 @@ Complete con Excel la información faltante en el dataset y cambie los valores a
 
 
  
-5 – Conecte BigQuery con PowerBI e importe el dataset.
+### Conecte BigQuery con PowerBI e importe el dataset.
 
-6- Modelo de datos:
+### Modelo de datos:
 
 ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/be4f53c0-8318-4070-aa0b-60e15bc2790d)
 
@@ -118,8 +120,11 @@ Capturas de Dashbord y relaciones de datos en Power BI
 
  ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/8bacbc09-a437-4652-a284-8de9ee7b415f)
 
+![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/bfc7e3d9-0f1e-473b-8a2a-fb75eb400c9d)
 
-Conclusiones Generales: 
+
+## Conclusiones Generales: 
+
 Se comprobó la primera hipótesis con respecto a la edad, continua aumentando la edad promedio en el ranking de billonarios ya que mantiene una tendencia creciente en comparación con las medidas anteriores.
 También se corroboró la segunda hipótesis la cual afirmaba que existen más hombres que mujeres en el ranking, pero no hay diferencia significativa en las edades promedio (menor al 5%), si la hay en el coeficiente de selfmade, se visualiza una gran cantidad de hombres en la categoría selfmade.
 Los países que lideran en cantidad de millonarios son los mismos que lo hacen en valor total, con marcada diferencia a favor de Estados unidos, China, la tendencia general indica que los países con mayor nivel de desarrollo tienen más millonarios y un mayor valor.
