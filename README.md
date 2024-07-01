@@ -131,4 +131,7 @@ Los países que lideran en cantidad de millonarios son los mismos que lo hacen e
 China se presenta como un caso excepcional con un valor total bajo en relación con su cantidad de billonarios, mientras que Francia hace el caso inverso.
 Se corrobora parcialmente la última hipótesis. Las principales industrias que concentran la mayor cantidad de millonarios incluyen a finanzas y tecnología, pero quedan relegadas en cuanto a valor total. Otras áreas como el Juego, la Industria Automotriz, Textil-Retail y la Logística, generan más riqueza (en promedio).
 
+# Enlace al dashboard:
+
+<iframe title="proyecto final 1_0" width="600" height="373.5" src="https://app.powerbi.com/view?r=eyJrIjoiNWZlMzlkODYtMmMzMC00YTA0LTk3MDMtNzU1ZTM3YjVmNjY3IiwidCI6IjE4ZmMxNWE2LWM4YWYtNGY4Yy1hNWZhLTU3YWQ1ODBjYmRhZiIsImMiOjl9" frameborder="0" allowFullScreen="true"></iframe>
 
