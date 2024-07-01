@@ -104,13 +104,20 @@ Finalmente genére los  gráficos, medidas y reportes definidos por el plan de m
  
 Capturas de Dashbord y relaciones de datos en Power BI
  
+![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/4bfbb2fb-210f-4901-8f2e-2574a8b7c30d)
 
+![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/9f616c2b-0c1c-4e5f-b9ec-616095f8df40)
 
- 
- 
-    
- 
- 
+ ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/e6c1780a-16f2-4597-b50f-10e9b1555399)
+
+ ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/73e47c63-5789-4b09-92e8-869972217bc8)
+
+ ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/9ce1b5d3-6645-414f-b55a-21c2206c6f04)
+   
+ ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/6794c10c-549d-4664-94a2-46c5df8b7843)
+
+ ![image](https://github.com/DataMarina4/ProyectoFinalMarina/assets/96702261/8bacbc09-a437-4652-a284-8de9ee7b415f)
+
 
 Conclusiones Generales: 
 Se comprobó la primera hipótesis con respecto a la edad, continua aumentando la edad promedio en el ranking de billonarios ya que mantiene una tendencia creciente en comparación con las medidas anteriores.
